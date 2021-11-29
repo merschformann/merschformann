@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+My name is Marius. I'm a software engineer & decision scientist (a bit of both). I'm specifically enthusiastic about optimization/planning algorithms & simulation. Apart from that, I enjoy longboarding, FPV drone flying, occasional soldering, 3D printing and such things. Also, I find the concept of _percent_ somewhat redundant.
+
+I hope you have a great day! 🤗
+
+![github contribution grid snake animation](https://raw.githubusercontent.com/merschformann/merschformann/output/github-contribution-grid-snake.svg)
+
+_generated with [Platane/snk](https://github.com/Platane/snk)_
+
 <!--
 **merschformann/merschformann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
