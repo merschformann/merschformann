@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Marius. I'm a software engineer & decision scientist (a bit of both). I'm specifically enthusiastic about optimization/planning algorithms & simulation. Apart from that, I enjoy longboarding, FPV drone flying, occasional soldering, 3D printing and such things. Also, I find the concept of _percent_ somewhat redundant.
+My name is Marius. I'm a software engineer & decision scientist (a bit of both). I'm specifically enthusiastic about optimization/planning algorithms & simulation. Apart from that, I enjoy longboarding, listening to music ([@brutus](https://youtu.be/5XgCfAK-3pA) - current favorite band), FPV drone flying, occasional soldering, 3D printing and such things. Also, I find the concept of _percent_ somewhat redundant.
 
 I hope you have a great day! 🤗
 
