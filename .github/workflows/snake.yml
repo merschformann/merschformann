@@ -22,6 +22,10 @@ jobs:
           outputs: |
             dist/github-snake-hue18.svg?color_snake=#289bcc&color_dots=#f2f2f2,#ea672e,#c15526,#9e451f,#6b2f15
             dist/github-snake-hue198.svg?color_snake=#cc5928&color_dots=#f2f2f2,#2eb2ea,#2693c1,#1f789e,#15516b
+            dist/github-snake-monokai.svg?color_snake=#cc5928&color_dots=#f2f2f2,#b4d273,#e5b567,#e87d3e,#9e86c8
+            dist/github-snake-giant-goldfish.svg?color_snake=#cc5928&color_dots=#f2f2f2,#a7dbd8,#e0e4cc,#f38630,#fa6900
+            dist/github-snake-our-moonlight-dance.svg?color_snake=#cc5928&color_dots=#f2f2f2,#348e91,#1c5052,#213635,#0a0c0d
+            dist/github-snake-fra.svg?color_snake=#cc5928&color_dots=#f2f2f2,#bddbda,#848ab3,#683a78,#45133d
 
       # push the content of <build_dir> to a branch
       # the content will be available at https://raw.githubusercontent.com/<github_user>/<repository>/<target_branch>/<file> , or as github page
