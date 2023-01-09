@@ -15,15 +15,13 @@ jobs:
 
     steps:
       # generates a snake game from a github user (<github_user_name>) contributions graph, output a svg animation at <svg_out_path>
-      - name: generate github-contribution-grid-snake.svg
+      - name: generate contribution snake svg
         uses: Platane/snk/svg-only@v2
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-            dist/github-snake-blue.svg?color_snake=#df9528&color_dots=#838383,#527ab5,#3975ce,#2171e6,#086cff
-            dist/github-snake-red.svg?color_snake=#00ffff&color_dots=#7f7f7f,#b24c4c,#cc3333,#e51919,#ff0000
-            dist/github-snake-purple?color_snake=#5edf28&color_dots=#838383,#9852b5,#a239ce,#ac21e6,#b608ff
-            dist/github-snake-skyblue?color_snake=#df2d00&color_dots=#6f6f6f,#438a9c,#2d97b2,#16a5c9,#00b2df
+            dist/github-snake-hue18.svg?color_snake=#009bdd&color_dots=#dddddd,#dd9f85,#dd8058,#dd612c,#dd4200
+            dist/github-snake-hue198?color_snake=#dd4200&color_dots=#dddddd,#85c3dd,#58b5dd,#2ca8dd,#009bdd
 
       # push the content of <build_dir> to a branch
       # the content will be available at https://raw.githubusercontent.com/<github_user>/<repository>/<target_branch>/<file> , or as github page

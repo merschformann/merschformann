@@ -4,7 +4,8 @@ My name is Marius. I'm a software engineer & decision scientist (a bit of both).
 
 I hope you have a great day! 🤗
 
-![github contribution grid snake animation](https://raw.githubusercontent.com/merschformann/merschformann/output/github-snake-blue.svg)
+![GitHub Snake Light](https://raw.githubusercontent.com/merschformann/merschformann/output/github-snake-hue18.svg#gh-light-mode-only)
+![GitHub Snake Dark](https://raw.githubusercontent.com/merschformann/merschformann/output/github-snake-hue198.svg#gh-dark-mode-only)
 
 _generated with [Platane/snk](https://github.com/Platane/snk)_
 
