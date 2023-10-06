@@ -30,7 +30,7 @@ jobs:
                       dist/github-snake-fra.svg?color_snake=#1ee859&color_dots=#f2f2f2,#bddbda,#848ab3,#683a78,#45133d
                       dist/github-snake-what-you-didnt-say.svg?color_snake=#ff5f00&color_dots=#f2f2f2,#b2ff4a,#1eef43,#5ecbff,#a142e9
               env:
-                  GITHUB_TOKEN: ${{ secrets.TOKEN }}
+                  GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
             # push the content of <build_dir> to a branch
             # the content will be available at https://raw.githubusercontent.com/<github_user>/<repository>/<target_branch>/<file> , or as github page
